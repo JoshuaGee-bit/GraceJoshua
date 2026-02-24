@@ -11,7 +11,11 @@
 ### -- Healthcare Analytics
 
 ## Projects
-### Remote Health
+### Remote Health Projects
 ### Patient Health Risk Analysis
 ### Patient Engagement & Missed Appointment Analysis
 ### Healthcare Operations & Care Optimization Analysis
+
+## Contact Details
+### www.linkedin.com/in/grace-joshua-7072b21aa
+### grcjsh@gmail.com
