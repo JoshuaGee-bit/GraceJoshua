@@ -11,3 +11,6 @@
 ### -- Healthcare Analytics
 
 ## Projects
+### Patient Health Risk Analysis
+### Patient Engagement & Missed Appointment Analysis
+### Healthcare Operations & Care Optimization Analysis
