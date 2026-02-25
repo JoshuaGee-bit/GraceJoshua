@@ -47,6 +47,28 @@ https://github.com/JoshuaGee-bit/PATIENT-ENGAGEMENT-AND-MISSED-APPOINTMENT-ANALY
  **Project Link**
  https://github.com/JoshuaGee-bit/HEALTHCARE-OPERATIONS-AND-CARE-OPTIMIZATION-ANALYSIS-REPORT/tree/main
 
+ ## Axia Africa Projects
+ ## 1. Microsoft Excel Project Report
+ **Tools:**
+ - Excel
+
+**Description**
+This project aims to clean and organize data using the Microsoft Excel Functions (such as Filtering, Sorting and Logical functions).
+
+**Project Link**
+https://github.com/JoshuaGee-bit/AXIA-AFRICA-EXCEL-PROJECT-REPORT-
+
+## 2. AxiaStores SQL Database Project
+**Tools:**
+- SQL
+
+**Description**
+This project demonstrates a complete SQL based solution for an Electronic and Accessories retail business, AxiaStores. It involves designing and implementing a relational database with three core tables, Customer, Product, and Orders. While performing various analytical queries to extract insights.
+ 
+**Project Link**
+https://github.com/JoshuaGee-bit/SQL-Projects
+
+
 ## Contact Details
 **www.linkedin.com/in/grace-joshua-7072b21aa**
 
