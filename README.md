@@ -1,4 +1,4 @@
-# Hi, I'm Grace Joshua
+# Hi, I'm Grace Nnamadu Joshua
 ## I am a Data Analyst and a Clinical Pharmacist based in Nigeria
 ### I am passionate about turning raw data into meaningful and actionable insights to improve patient care and health outcomes. I love to profer solutions to patient's medication therapy problems and chronic disease prevention, mentoring and impacting younger colleagues in the profession.
 ### I have a huge interest in integrating Data Analytics into Pharmacy Practice, Precision Medicine and Drug Discovery and Development.
