@@ -17,16 +17,23 @@
 - Power BI
 - Excel  
 
-**Description:** Outlines the steps taken to identify patients who at high health risk based on their vitals and medical history in order to prioritize health care, reduce emergencies and improve patient outcomes.
+**Description:** 
+Outlines the steps taken to identify patients who at high health risk based on their vitals and medical history in order to prioritize health care, reduce emergencies and improve patient outcomes.
 
 **Project Link** 
 https://github.com/JoshuaGee-bit/PATIENT-HEALTH-RISK-ANALYSIS-AND-STRATIFICATION-REPORT/tree/main
 
 ### Patient Engagement & Missed Appointment Analysis
+
 **Tools:** 
 - Power BI
 - Excel  
 
+**Description:** 
+Remote health noticed an increase in missed and cancelled appointments that impacts continuity of care and revenue. This report outlines the steps taken to analyze engagement patterns, understand why patients miss appointments, data driven engagement strategies.
+
+**Project Link**
+https://github.com/JoshuaGee-bit/PATIENT-ENGAGEMENT-AND-MISSED-APPOINTMENT-ANALYSIS/tree/main
 
 ### Healthcare Operations & Care Optimization Analysis
 
