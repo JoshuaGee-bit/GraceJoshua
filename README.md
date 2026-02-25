@@ -13,12 +13,21 @@
 ## Projects
 ### Remote Health Projects
 ### Patient Health Risk Analysis
-**Tools:** Power BI, Excel  
+**Tools:** 
+- Power BI
+- Excel  
+
 **Description:** Outlines the steps taken to identify patients who at high health risk based on their vitals and medical history in order to prioritize health care, reduce emergencies and improve patient outcomes.
+
 **Project Link** 
 https://github.com/JoshuaGee-bit/PATIENT-HEALTH-RISK-ANALYSIS-AND-STRATIFICATION-REPORT/tree/main
 
 ### Patient Engagement & Missed Appointment Analysis
+**Tools:** 
+- Power BI
+- Excel  
+
+
 ### Healthcare Operations & Care Optimization Analysis
 
 ## Contact Details
