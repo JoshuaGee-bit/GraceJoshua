@@ -4,11 +4,11 @@
 ### I have a huge interest in integrating Data Analytics into Pharmacy Practice, Precision Medicine and Drug Discovery and Development.
 
 ## Skills
-### -- Microsoft Excel
-### -- Microsoft PowerBI
-### -- Structured Query Language
-### -- Python
-### -- Healthcare Analytics
+### Microsoft Excel
+### Microsoft PowerBI
+### Structured Query Language
+### Python
+### Healthcare Analytics
 
 ## Projects
 ### Remote Health Projects
