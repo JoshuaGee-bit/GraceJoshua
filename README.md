@@ -22,7 +22,7 @@ Outlines the steps taken to identify patients who at high health risk based on t
 **Project Link** 
 https://github.com/JoshuaGee-bit/PATIENT-HEALTH-RISK-ANALYSIS-AND-STRATIFICATION-REPORT/tree/main
 
-
+![image alt](https://github.com/JoshuaGee-bit/GraceJoshua/blob/main/Patient%20Health%20Risk%20Analysis%20Dashboard.jpg)
 
 ## 2. Patient Engagement & Missed Appointment Analysis
 
@@ -34,6 +34,8 @@ Remote health noticed an increase in missed and cancelled appointments that impa
 
 **Project Link**
 https://github.com/JoshuaGee-bit/PATIENT-ENGAGEMENT-AND-MISSED-APPOINTMENT-ANALYSIS/tree/main
+
+![image alt]()
 
 ## 3. Healthcare Operations & Care Optimization Analysis
 
