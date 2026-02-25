@@ -78,6 +78,16 @@ This analysis evaluates sales and inventory data from Maven Toy Store, a toy ret
 **Project Link**
 https://github.com/JoshuaGee-bit/PowerBi-Project
 
+## 4. CAR INVENTORY ANALYSIS PROJECT
+**Tools:**
+- Python
+
+**Description**
+This Data Analysis Project aims to provide insight from a dataset containing details about various cars, including their make, model, color, mileage, price, and cost. The project aims to uncover trends, relationships, and key patterns within the dataset.
+
+**Project Link**
+https://github.com/JoshuaGee-bit/Python-Project
+
 ## Contact Details
 **www.linkedin.com/in/grace-joshua-7072b21aa**
 
