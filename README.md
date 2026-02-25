@@ -11,8 +11,8 @@
 ### Healthcare Analytics
 
 ## Projects
-### Remote Health Projects
-### 1. Patient Health Risk Analysis
+## Remote Health Projects
+## 1. Patient Health Risk Analysis
 **Tools:** 
 - Power BI
 - Excel  
@@ -23,7 +23,7 @@ Outlines the steps taken to identify patients who at high health risk based on t
 **Project Link** 
 https://github.com/JoshuaGee-bit/PATIENT-HEALTH-RISK-ANALYSIS-AND-STRATIFICATION-REPORT/tree/main
 
-### 2. Patient Engagement & Missed Appointment Analysis
+## 2. Patient Engagement & Missed Appointment Analysis
 
 **Tools:** 
 - Power BI
@@ -35,7 +35,7 @@ Remote health noticed an increase in missed and cancelled appointments that impa
 **Project Link**
 https://github.com/JoshuaGee-bit/PATIENT-ENGAGEMENT-AND-MISSED-APPOINTMENT-ANALYSIS/tree/main
 
-### 3. Healthcare Operations & Care Optimization Analysis
+## 3. Healthcare Operations & Care Optimization Analysis
 
 **Tools:**
 - Power BI
