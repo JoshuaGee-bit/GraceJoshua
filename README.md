@@ -48,7 +48,7 @@ https://github.com/JoshuaGee-bit/PATIENT-ENGAGEMENT-AND-MISSED-APPOINTMENT-ANALY
  **Project Link**
  https://github.com/JoshuaGee-bit/HEALTHCARE-OPERATIONS-AND-CARE-OPTIMIZATION-ANALYSIS-REPORT/tree/main
 
-![image alt]()
+![image alt](https://github.com/JoshuaGee-bit/GraceJoshua/blob/main/Healthcare%20Operations%26Care%20Optimization%20Analysis.jpg)
 
  ## Axia Africa Projects
  ## 1. Microsoft Excel Project Report
