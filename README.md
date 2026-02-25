@@ -15,7 +15,7 @@
 ### Patient Health Risk Analysis
 **Tools:** Power BI, Excel  
 **Description:** Outlines the steps taken to identify patients who at high health risk based on their vitals and medical history in order to prioritize health care, reduce emergencies and improve patient outcomes.
-### Project Link
+**Project Link** 
 ### Patient Engagement & Missed Appointment Analysis
 ### Healthcare Operations & Care Optimization Analysis
 
