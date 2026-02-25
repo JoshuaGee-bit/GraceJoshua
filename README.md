@@ -45,6 +45,7 @@ https://github.com/JoshuaGee-bit/PATIENT-ENGAGEMENT-AND-MISSED-APPOINTMENT-ANALY
  This report aims to evaluates provider workload and patient demand to optimize care delivery, understand operational strain points and recommend operational improvements. 
 
  **Project Link**
+ https://github.com/JoshuaGee-bit/HEALTHCARE-OPERATIONS-AND-CARE-OPTIMIZATION-ANALYSIS-REPORT/tree/main
 
 ## Contact Details
 **www.linkedin.com/in/grace-joshua-7072b21aa**
