@@ -41,7 +41,12 @@ https://github.com/JoshuaGee-bit/PATIENT-ENGAGEMENT-AND-MISSED-APPOINTMENT-ANALY
 - Power BI
 - Excel
 
+ **Description:**
+ This report aims to evaluates provider workload and patient demand to optimize care delivery, understand operational strain points and recommend operational improvements. 
+
+ **Project Link**
+
 ## Contact Details
-### www.linkedin.com/in/grace-joshua-7072b21aa
-### grcjsh@gmail.com
+**www.linkedin.com/in/grace-joshua-7072b21aa**
+**grcjsh@gmail.com**
 
