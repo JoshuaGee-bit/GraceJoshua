@@ -61,6 +61,8 @@ This project aims to clean and organize data using the Microsoft Excel Functions
 **Project Link**
 https://github.com/JoshuaGee-bit/AXIA-AFRICA-EXCEL-PROJECT-REPORT-
 
+![image alt](https://github.com/JoshuaGee-bit/AXIA-AFRICA-EXCEL-PROJECT-REPORT-/blob/main/Cleaned%20Excel%20Project.xlsx)
+
 ## 2. AxiaStores SQL Database Project
 **Tools:**
 - SQL
