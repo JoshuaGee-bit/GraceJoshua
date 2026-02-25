@@ -35,7 +35,7 @@ Remote health noticed an increase in missed and cancelled appointments that impa
 **Project Link**
 https://github.com/JoshuaGee-bit/PATIENT-ENGAGEMENT-AND-MISSED-APPOINTMENT-ANALYSIS/tree/main
 
-![image alt]()
+![image alt](https://github.com/JoshuaGee-bit/GraceJoshua/blob/main/Patient%20Engagement%20and%20Missed%20Appointment%20.jpg)
 
 ## 3. Healthcare Operations & Care Optimization Analysis
 
@@ -47,6 +47,8 @@ https://github.com/JoshuaGee-bit/PATIENT-ENGAGEMENT-AND-MISSED-APPOINTMENT-ANALY
 
  **Project Link**
  https://github.com/JoshuaGee-bit/HEALTHCARE-OPERATIONS-AND-CARE-OPTIMIZATION-ANALYSIS-REPORT/tree/main
+
+![image alt]()
 
  ## Axia Africa Projects
  ## 1. Microsoft Excel Project Report
