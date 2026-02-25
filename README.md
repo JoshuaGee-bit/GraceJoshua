@@ -22,6 +22,8 @@ Outlines the steps taken to identify patients who at high health risk based on t
 **Project Link** 
 https://github.com/JoshuaGee-bit/PATIENT-HEALTH-RISK-ANALYSIS-AND-STRATIFICATION-REPORT/tree/main
 
+
+
 ## 2. Patient Engagement & Missed Appointment Analysis
 
 **Tools:** 
@@ -74,6 +76,9 @@ This analysis evaluates sales and inventory data from Maven Toy Store, a toy ret
 
 **Project Link**
 https://github.com/JoshuaGee-bit/PowerBi-Project
+
+![image alt](https://github.com/JoshuaGee-bit/PowerBi-Project/blob/1b29b187cd14e1241c2516f5e2d9e514987511c5/Screenshot%202025-07-23%20195934.png)
+
 
 ## 4. CAR INVENTORY ANALYSIS PROJECT
 **Tools:**
